@@ -1,0 +1,4 @@
+interface:
+  display_name: "NSF Annual Report"
+  short_description: "Draft concise technical NSF responses"
+  default_prompt: "Use $nsf-annual-report to create or update nsf-report-context.md, then draft concise, technically rich NSF project report responses."
